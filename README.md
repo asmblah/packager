@@ -17,5 +17,4 @@ Features:
 What? No tests?!
 ----------------
 
-I know, sorry about that. This project is (almost all) ripped out of my Modular AMD project
-in an attempt to play nicely with RequireJS. The tests will be ported across soon, I promise.
+I know, sorry about that. This project is (almost all) ripped out of my [Modular AMD project](https://github.com/asmblah/modular) in an attempt to play nicely with RequireJS. The tests will be ported across soon, I promise.
